@@ -7,7 +7,7 @@ import { ArrowRight, Terminal } from "lucide-react";
 export default function Hero() {
   const stats = [
     { label: "Years Experience", value: "2+" },
-    { label: "SaaS Projects", value: "5+" },
+    { label: "SaaS Projects", value: "2" },
     { label: "Tech Stack Skills", value: "12+" }
   ];
 
