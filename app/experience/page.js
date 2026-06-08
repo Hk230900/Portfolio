@@ -196,8 +196,8 @@ export default function Experience() {
               </h3>
               <div className="space-y-2.5 text-slate-600 dark:text-slate-400 text-sm">
                 <div>Django, Django REST Framework</div>
-                <div>Python, Java, JDBC</div>
-                <div>PostgreSQL, MySQL, SQLite</div>
+                <div>Java, JDBC</div>
+                <div>PostgreSQL, MySQL</div>
                 <div>RESTful APIs, JWT Auth</div>
               </div>
             </div>
